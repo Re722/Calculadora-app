@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mini Calculadora</string>
+    <string name="enter_amount">digite valor</string>
+    <string name="tip_percentage">15%</string>
+    <string name="tip">Taxa</string>
+    <string name="Total">Total</string>
+</resources>
